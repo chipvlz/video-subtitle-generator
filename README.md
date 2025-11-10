@@ -2,6 +2,8 @@
 
 An enterprise-grade AI-powered subtitle generation system using Google Gemini AI that creates accurate multi-language subtitles with production-ready reliability.
 
+[![fossradar.in: Verified](https://img.shields.io/badge/fossradar.in-Verified-brightgreen?style=for-the-badge)](https://fossradar.in/projects/video-subtitle-generator)
+
 ## 🌟 Key Features
 
 - **🤖 AI-Powered**: Google Gemini 2.5 Pro for accurate transcription and translation
